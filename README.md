@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrancoisUgeux
 - 👀 I’m interested in Software and game development
-- 🌱 I’m currently learning to make mini-games on Unity(C#) and Unreal Engine(C++)
+- 🌱 I’m currently learning how to make mini-games on Unity(C#) and Unreal Engine(C++)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
  - Work in progress
